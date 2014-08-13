@@ -1,0 +1,30 @@
+{
+  "name": "transleight-cli",
+  "version": "0.1.0",
+  "description": "Simple CLI for transleight Language Translation Stream",
+  "main": "index.js",
+  "dependencies": {
+    "transleight": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "transleight-cli -l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indiependente/transleight-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "transleight",
+    "translation",
+    "translate",
+    "language"
+  ],
+  "author": "indiependente",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indiependente/transleight-cli/issues"
+  },
+  "homepage": "https://github.com/indiependente/transleight-cli"
+}
