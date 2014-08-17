@@ -1,8 +1,11 @@
 {
   "name": "transleight-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple CLI for transleight Language Translation Stream",
   "main": "index.js",
+  "bin": {
+    "transleight-cli": "index.js"
+    },
   "dependencies": {
     "transleight": "^0.1.0"
   },
